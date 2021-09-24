@@ -164,11 +164,17 @@ hr {
 .botao {
   background-color: grey;
   padding: 5px 20px;
-  color:white;
+  color: white;
   text-decoration: none;
 }
 
-.mapa{
+.botao:hover {
+  background-color: #b22d00;
+  border: none;
+  color: white;
+}
+
+.mapa {
   width: 300px;
   padding-top: 20px;
 }
